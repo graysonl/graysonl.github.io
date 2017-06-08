@@ -1,4 +1,4 @@
-#CIT Code Portfolio for Grayson Lohonyay
+# CIT Code Portfolio for Grayson Lohonyay
 
 Various links to projects done in CIT 281 at the University of Oregon, spring 2017
 
